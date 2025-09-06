@@ -1,4 +1,6 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D5616AQEpNYffJBAfVQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXBPjBXGsAY-/0/1742703836333?e=1759968000&v=beta&t=e41WZdzcfxcWEXr4m2059GurLi_xlQ1sPvqUxN6Mts4])
+<img src="https://github.com/user-attachments/assets/488f7785-cd18-417a-aab5-aff778c3e0da" alt="MasterHead" width="100%" height="auto">
+
+
 <h1 align="center">Hi 👋, I'm Sihil Rashmika</h1>
 <h3 align="center">Learning more about Web Development, Mobile Development and UX/UI Design.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
