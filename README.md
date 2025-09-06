@@ -1,11 +1,11 @@
-![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![MasterHead]([https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif](https://media.licdn.com/dms/image/v2/D5616AQEpNYffJBAfVQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXBPjBXGsAY-/0/1742703836333?e=1759968000&v=beta&t=e41WZdzcfxcWEXr4m2059GurLi_xlQ1sPvqUxN6Mts4)
 <h1 align="center">Hi 👋, I'm Sihil Rashmika</h1>
 <h3 align="center">Learning more about Web Development, Mobile Development and UX/UI Design.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-- 🔭 I’m currently working on **PHP Developer**
+- 🔭 I’m currently working on **Web and Mobile Application Developer**
 
 - 🌱 I’m currently learning **Web Development, Mobile Development and UX/UI Design**
 
