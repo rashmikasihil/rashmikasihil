@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/rashmikasihil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashmikasihil&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="rashmikasihil's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashmikasihil&cache_seconds=7200&layout=compact&theme=cobalt&border_radius=10" alt="rashmikasihil's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rashmikasihil&theme=radical&hide_border=true&cache_seconds=86400" alt="rashmikasihil's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rashmikasihil&theme=cobalt&hide_border=true&cache_seconds=86400" alt="rashmikasihil's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rashmikasihil&theme=radical&radius=10" alt="rashmikasihil's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rashmikasihil&theme=cobalt&radius=10" alt="rashmikasihil's Activity Graph" />
 </p>
 
 
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://github.com/rashmikasihil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashmikasihil&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashmikasihil&langs_count=8&layout=compact&theme=cobalt&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
