@@ -27,12 +27,9 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/rashmikasihil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashmikasihil&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="rashmikasihil's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashmikasihil&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="rashmikasihil's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rashmikasihil&theme=dark&hide_border=true&cache_seconds=86400" alt="rashmikasihil's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rashmikasihil&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sihil Rashmika's GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=rashmikasihil&theme=github_dark&hide_border=true&cache_seconds=86400" alt="rashmikasihil's GitHub Streak" width="49%" />
 </p>
 
 
@@ -102,7 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/rashmikasihil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashmikasihil&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashmikasihil&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
